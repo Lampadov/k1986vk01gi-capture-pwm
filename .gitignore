@@ -1,0 +1,7 @@
+/Objects/
+/Listings/
+*.uvoptx
+*.uvguix.*
+/RTE/Device/
+/RTE/Board_Support/
+__pycache__/
